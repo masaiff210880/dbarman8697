@@ -51,20 +51,20 @@
  ## 📊 My GitHub Data:
 
   <div align=center>
-   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohitsharma9001&show_icons=true&locale=en" alt="mohitsharma9001" /></p>
+   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dbarman8697&show_icons=true&locale=en" alt="dbarman8697" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohitsharma9001&" alt="mohitsharma9001" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dbarman8697&" alt="dbarman8697" /></p>
 
-   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohitsharma9001&show_icons=true&locale=en&layout=compact" alt="mohitsharma9001" /></p>
+   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dbarman8697&show_icons=true&locale=en&layout=compact" alt="dbarman8697" /></p>
   </div>
 
 <br><br><br><br><br><br><br>
  ## ❤️ Let's get connected:
 <p>
 <div align="center" >
-<a href="https://www.linkedin.com/in/mohit-sharma-333877217/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  height="30px"/></a> 
+<a href="https://www.linkedin.com/in/dbarman04/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  height="30px"/></a> 
 
-<a href="mailto:gmail.com/75mohitsharma@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"  height="30px"/></a>
+<a href="mailto:gmail.com/dbarman8697@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"  height="30px"/></a>
 
 </div>
 </p>
